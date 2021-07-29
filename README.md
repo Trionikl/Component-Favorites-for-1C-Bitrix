@@ -27,8 +27,6 @@
 
 ![alt text](screenshots/03.png "Компонент карта сайта") 
 
-![alt text](screenshots/03.png "Компонент карта сайта") 
-
 ![alt text](screenshots/04.png "Компонент карта сайта") 
 
 ![alt text](screenshots/05.png "Компонент карта сайта") 
