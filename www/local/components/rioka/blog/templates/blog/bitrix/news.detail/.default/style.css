@@ -1,0 +1,34 @@
+div.news-detail
+{
+	word-wrap: break-word;
+}
+
+.blog-detail,
+.blog-detail-img,
+.blog-detail-text {
+  width: 100%;  
+}
+.blog-detail-img img {
+  width: 100%;
+  height: auto; 
+}
+.blog-detail-img,
+.blog-info {
+  margin-bottom: 1rem;
+}
+.blog-info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.button-favorites {
+    margin-bottom: 25px;
+}
+
+.button-favorites {
+    width: min-content;
+    /* background: green; */
+    cursor: pointer;
+}
